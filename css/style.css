@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.bar.bar-assertive,
+.button.button-assertive,
+.tabs-assertive > .tabs, .tabs.tabs-assertive{
+	background: #d21e27;
+}
+.assertive{
+	color: #d21e27;
+}
+ion-tabs.tabs-color-active-positive .tab-item.tab-item-active{
+	color: #fff;
+	font-weight: bold;
+}
+ion-tabs.tabs-color-active-positive .tab-item{
+	color: #fff;
+}
+.scroll-content{
+	background: #fcf3f4;
+}
+.text-danger{
+	color:#F00 !important;
+}
